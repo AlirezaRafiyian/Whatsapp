@@ -11,7 +11,7 @@ messages for your customers and channel.
 2. Clone this repository:
 
    ```shell
-   git clone https://github.com/AlirezaRafiyian/WhatsappBot.git
+   git clone https://github.com/AlirezaRafiyian/Whatsapp.git
 
 I. Navigate to the project directory:
   cd your-repository
